@@ -11,3 +11,5 @@ The code of the bot is open source to allow for community contributions. Please 
 
 # How do I contribute?
 You can contribute by submitting a pull request to the **staging** branch. Make sure to use appropriate formatting when you make contributions. If you have any questions, feel free to ask in the [Support Server](https://discord.gg/a3NuakW).
+
+[![Run on Repl.it](https://repl.it/badge/github/Suggester-Bot/Suggester)](https://repl.it/github/Suggester-Bot/Suggester)
